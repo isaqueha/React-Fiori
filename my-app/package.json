@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "fiori-fundamentals": "^1.5.7",
-    "fundamental-react": "^0.5.1",
+    "fiori-fundamentals": "^1.7.0",
+    "fundamental-react": "^0.6.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
